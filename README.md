@@ -2,6 +2,8 @@
 
 # Getting Started with Create React App
 
+The Todo App is deployed hand you can test it here: [https://todo-react-app-sproof.herokuapp.com/](https://todo-react-app-sproof.herokuapp.com/).
+
 ## Available Scripts
 
 In the project terminal, you can run:
