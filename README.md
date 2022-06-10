@@ -1,9 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/90897068/172954333-fb8769bd-f960-4d04-bc7f-4ca17d8a83f3.png)
 
-
 # Getting Started with Create React App
-
-This project is deployed on Netlify: [https://todo-react-app-sproof.netlify.app](https://todo-react-app-sproof.netlify.app)
 
 ## Available Scripts
 
@@ -18,4 +15,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Runs the json file in the JSON-server.\
 Open [http://localhost:8000/todos](http://localhost:8000/todos) to view the JSON-file in your browser.
-

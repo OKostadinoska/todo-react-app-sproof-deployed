@@ -9,7 +9,7 @@ function App() {
   const [todos, setTodos] = useState([]);
   const [status, setStatus] = useState('all');
   const [filteredTodos, setFilteredTodos] = useState([]);
-  const baseUrl = 'https://todo-react-app-sproof.herokuapp.com';
+  const baseUrl = 'http://localhost:8000';
 
   useEffect(() => {
     filterHandler();
